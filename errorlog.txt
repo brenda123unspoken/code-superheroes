@@ -1,0 +1,2 @@
+Error retrieving heroes: maximum recursion depth exceeded while calling a Python object
+Error creating hero_power: maximum recursion depth exceeded while calling a Python object
